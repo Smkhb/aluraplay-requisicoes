@@ -1,0 +1,22 @@
+{
+  "name": "aluraplay-requisicoes",
+  "version": "1.0.0",
+  "description": "Projeto Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smkhb/aluraplay-requisicoes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smkhb/aluraplay-requisicoes/issues"
+  },
+  "homepage": "https://github.com/Smkhb/aluraplay-requisicoes#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
